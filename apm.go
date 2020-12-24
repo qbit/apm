@@ -1,3 +1,6 @@
+/*
+Package apm allows users to query OpenBSD's power management system.
+*/
 package apm
 
 import (
